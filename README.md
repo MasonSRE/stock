@@ -1,6 +1,11 @@
 # stock
 
-## v1分支
-只针对终端形式
+## v2分支
+针对 metrics 形式暴露指标，方便 Prometheus + Grafana 做采集及展示
 
-自定义股票标准输出对应数值
+## 使用 metrics 暴露指标
+安装并导入库
+go get github.com/PuerkitoBio/goquery
+
+## start
+go run main.go
