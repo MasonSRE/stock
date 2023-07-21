@@ -5,6 +5,8 @@
 
 自定义股票标准输出对应数值
 
+![Terminal](https://github.com/MasonSRE/stock/blob/v1/stockv1.png)
+
 ## v2分支
 针对 metrics 形式暴露指标，方便 Prometheus + Grafana 做采集及展示
 
