@@ -7,3 +7,5 @@
 
 ## v2分支
 针对 metrics 形式暴露指标，方便 Prometheus + Grafana 做采集及展示
+
+![grafana](https://github.com/MasonSRE/stock/blob/v2/src/stock.png)
